@@ -1,2 +1,2 @@
 # python-example
-Estudiando git 
+This is an example project to demostrate the use of git on Ubuntu. 
